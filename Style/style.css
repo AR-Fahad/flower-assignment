@@ -124,15 +124,14 @@ span{
 .seventh-section{
     margin: 0px 240px 120px 240px;
     gap: 10px;
-    display: inline;
-    padding: auto;
-    width: 1342px;
-    height: 1584px;
+    display: flex;
+    justify-content: center;
+    height: 400px;
 }
 .eighth-section{
     background-image: url('../Flower Asset/Rectangle\ 9.png');
-    width: 1400px;
-    height: 400px;
+    justify-content: center;
+    height: 449px;
     margin: 0px 240px 120px 240px;
     background-size: 100% 100%;
 }
