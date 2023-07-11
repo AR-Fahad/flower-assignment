@@ -177,6 +177,17 @@ footer>p{
     font-weight: 400;
     text-align: center;
 }
+.new{
+    background-color: pink;
+}
+.new > h2{
+    color: white;
+    text-align: center;
+}
+.new > article{
+    counter-reset: grey;
+    text-align: center;
+}
 
 
 
